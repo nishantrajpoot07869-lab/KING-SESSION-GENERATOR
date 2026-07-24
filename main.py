@@ -1,6 +1,4 @@
 import os
-from dotenv import load_dotenv
-load_dotenv()
 
 # ---------------------------------------------------------
 # 🚑 CRITICAL FIX FOR PYTHON 3.10+ / 3.14
